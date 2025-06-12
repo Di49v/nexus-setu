@@ -24,5 +24,5 @@ A map-based, AI-powered platform to help government agencies coordinate and opti
 [YouTube/Vimeo link]
 
 ## Team
-- Di49v
-- [Teammate Name]
+- Di49v [Divleen Kaur]
+- Gurnadarkaur471 [Gurnadar Kaur]
