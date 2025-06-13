@@ -82,8 +82,8 @@ Pull requests are welcome! For major changes, please open an issue first.
 
 ## Team
 
-- Di49v [Divleen Kaur](https://github.io/di49v/)
-- Gurnadark471 [Gurnadar Kaur](https://github.io/gurnadark471/)
+- Di49v [Divleen Kaur](https://github.com/Di49v/)
+- Gurnadarkaur471 [Gurnadar Kaur](https://github.com/Gurnadarkaur471/)
 
 ## License
 
