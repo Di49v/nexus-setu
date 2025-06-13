@@ -9,7 +9,7 @@
 
 ## Tech Stack
 - Bolt.new Pro for rapid prototyping and deployment
-- [Your frontend framework] (e.g., React, Vue)
+- [Your frontend framework] (e.g., React)
 - [Your backend framework] (e.g., Node.js, Flask)
 - AI services: [Bolt AI APIs, OpenAI, etc.]
 
