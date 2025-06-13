@@ -1,28 +1,39 @@
-# Infrastructure Project Coordination Platform
+# Nexus-Setu
 
-## Overview
-A map-based, AI-powered platform to help government agencies coordinate and optimize infrastructure projects, minimizing waste and public inconvenience.
+**AI-powered infrastructure coordination platform for government and public projects.**
 
 ## Features
-- Add/view infrastructure projects on a map
-- AI-powered scheduling and conflict resolution
-- Visualize overlapping projects and optimize timelines
+- Visual map of infrastructure projects
+- AI-powered scheduling and conflict detection
+- Easy project creation and collaboration
 
 ## Tech Stack
-- Frontend: [Your choice, e.g., React]
-- Backend: [Your choice, e.g., Flask/Node]
-- AI: [OpenAI/Bolt AI/Hugging Face/etc.]
+- Bolt.new Pro for rapid prototyping and deployment
+- [Your frontend framework] (e.g., React, Vue)
+- [Your backend framework] (e.g., Node.js, Flask)
+- AI services: [Bolt AI APIs, OpenAI, etc.]
 
-## How to Run
-1. Clone the repo: `git clone ...`
-2. Install dependencies: `pip install ...` / `npm install`
-3. Start backend: `python app.py`
-4. Start frontend: `npm start`
-5. Visit `http://localhost:3000`
+## Getting Started
+1. Clone the repo:
+   ```
+   git clone https://github.com/your-username/nexus-setu.git
+   ```
+2. Install dependencies:
+   ```
+   npm install  # or pip install -r requirements.txt
+   ```
+3. Run locally:
+   ```
+   npm start  # or python app.py
+   ```
+
+## Deployment
+- Deployed on [Bolt.new](https://bolt.new/)
+- [Add custom domain after deployment]
 
 ## Demo Video
-[YouTube/Vimeo link]
+- [Add YouTube/Vimeo link here]
 
 ## Team
-- Di49v [Divleen Kaur]
-- Gurnadarkaur471 [Gurnadar Kaur]
+- Di49v
+- [Teammate Name]
