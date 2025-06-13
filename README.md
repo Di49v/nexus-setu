@@ -21,7 +21,7 @@
 
 ```bash
 git clone https://github.com/Di49v/nexus-setu.git
-cd nexus-setu/project
+cd nexus-setu
 ```
 
 ### 2. Install dependencies
@@ -49,23 +49,29 @@ Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
 
 ```
 nexus-setu/
-├── project/
-│   ├── public/                  # Static assets (favicon, images, etc.)
-│   ├── src/                     # Main application source code
-│   │   ├── assets/              # Images and static resources used in the app
-│   │   ├── components/          # Reusable UI components (buttons, cards, forms, etc.)
-│   │   ├── pages/               # Route-based page components (Home, Dashboard, etc.)
-│   │   ├── App.tsx              # Main app component with routes/layout
-│   │   ├── main.tsx             # App entry point
-│   │   └── index.css            # Global styles (TailwindCSS)
-│   ├── package.json             # Project metadata and dependencies
-│   ├── tsconfig.json            # TypeScript configuration
-│   ├── tailwind.config.js       # TailwindCSS configuration
-│   ├── postcss.config.js        # PostCSS configuration
-│   └── vite.config.ts           # Vite build tool configuration
-├── README.md                    # This file
-└── ...                          # (Other root-level files, e.g., LICENSE)
+├── .bolt/                  # Bolt configuration and deployment files
+├── src/                    # Main application source code
+│   ├── assets/             # Images and static resources
+│   ├── components/         # Reusable UI components
+│   ├── pages/              # Route-based page components
+│   ├── App.tsx             # Main app component with routes/layout
+│   ├── main.tsx            # App entry point
+│   └── index.css           # Global styles (TailwindCSS)
+├── index.html              # HTML entry point
+├── package.json            # Project metadata and dependencies
+├── package-lock.json       # Dependency lock file
+├── eslint.config.js        # ESLint configuration
+├── tailwind.config.js      # TailwindCSS configuration
+├── postcss.config.js       # PostCSS configuration
+├── tsconfig.json           # TypeScript configuration
+├── tsconfig.app.json       # TypeScript app configuration
+├── tsconfig.node.json      # TypeScript node configuration
+├── vite.config.ts          # Vite build tool configuration
+├── .gitignore
+└── README.md               # This file
 ```
+
+[See the full file list here.](https://github.com/Di49v/nexus-setu/tree/main/)
 
 ## Deployment
 
